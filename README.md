@@ -8,7 +8,7 @@
 
 **Secure, private, and simple file sharing with end-to-end encryption**
 
-[Features](#features) • [Security](#security) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture)
+[Features](#features) • [Installation](#installation) • [Usage](#usage)
 
 </div>
 
