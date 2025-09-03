@@ -1,4 +1,4 @@
-# xsukax Secure Share - Zero-Knowledge E2E Encrypted File Transfer
+# xsukax Secure Share - E2E Encrypted File Transfer
 
 <div align="center">
 
