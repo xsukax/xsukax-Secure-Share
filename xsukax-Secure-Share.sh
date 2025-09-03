@@ -1224,7 +1224,7 @@ EOF
     nginx -t && systemctl reload nginx
 fi
 
-echo "✅ xsukax SecureShare installed and running as a service!"
+echo "✅ xsukax Secure Share installed and running as a service!"
 echo ""
 echo "📍 Access points:"
 echo "   • Direct: http://localhost:3456"
